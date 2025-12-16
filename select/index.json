@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "B2B（feat. Benjazzy、Bonbero）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2025-12-16T11:44:10.977748Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "B2B (feat. Benjazzy & Bonbero)",
+      "artist": "BAD HOP, Benjazzy, Bonbero",
+      "has_synced": false,
+      "path": "select/pl_01_B2B_(feat._Benjazzy_&_Bonbero)_BAD_HOP,_Benjazzy,_Bonbero.txt"
+    }
+  ]
+}
